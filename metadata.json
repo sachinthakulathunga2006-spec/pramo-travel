@@ -1,0 +1,6 @@
+{
+  "name": "Travel with Pramo - Bespoke Sri Lanka Expeditions & Luxury Villas",
+  "description": "Curated luxury Ceylon hospitality, private villa retreats, wildlife safaris, and bespoke coastal expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
